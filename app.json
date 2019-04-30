@@ -20,7 +20,7 @@
   ],
   "env": {
     "WIKI_TITLE": {
-      "description": "Title of your Wiki app",
+      "description": "Korolr wiki",
       "value": "Wiki"
     },
     "WIKI_HOST": {
